@@ -1,0 +1,4 @@
+2. Register user
+2a. Check if username is already in use
+3. Login user
+4. If user is already logged in, go to main storyboard
